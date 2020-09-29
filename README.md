@@ -1,6 +1,6 @@
 # mapping-and-loto
 
-## Retour sur JS
+## Back on JS using only map() reduce() filter()
 node <file.js>
 
 ## Loto
